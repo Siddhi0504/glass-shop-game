@@ -1,10 +1,13 @@
-extends CharacterBody2D
+extends Node2D
 
-var art_type = ""
+signal customer_done
+
+func finish_work():
+	emit_signal("customer_done")
+	queue_free()
+	
+var art = ""
 var color = Color.WHITE
-var dialogue = []
-
-func setup(order_data):
-	art_type = order_data.art
-	color = order_data.color
-	dialogue = order_data.dialogue
+func setup(data):
+	art = data["art"]
+	color = data["color"]

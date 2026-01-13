@@ -1,11 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1768293882
+::res://::1768309205
 icon.svg::CompressedTexture2D/CompressedTexture2D::453738882167745361::1767510758::1767510773::1::::<><><>0<>0<>723626475293a58cc1159c93ab1441bf<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-shop.gd::GDScript/GDScript::7011712045678057653::1768235592::0::1::::<>Node2D<><>0<>0<><>::
+shop.gd::GDScript::7011712045678057653::1768296666::0::1::::<>Node2D<><>0<>0<><>::
 ::res://assets/::1767974380
-::res://scenes/::1768235657
+::res://scenes/::1768294505
 customer.gd::GDScript/GDScript::282850341602987219::1768235657::0::1::::<>CharacterBody2D<><>0<>0<><>::
-customer.tscn::PackedScene/PackedScene::2659082655792265790::1768235623::0::1::::<><><>0<>0<><>::uid://ebarenn0mn7p::::res://scenes/customer.gd
-shop.tscn::PackedScene/PackedScene::1618014002586439966::1768235657::0::1::::<><><>0<>0<><>::uid://c7ttx1riilk43::::res://scripts/customer_spawn.gd<>uid://c65r4xffb5qav::::res://shop.gd
+customer.tscn::PackedScene::2659082655792265790::1768294505::0::1::::<><><>0<>0<><>::uid://ebarenn0mn7p::::res://scenes/customer.gd
+shop.tscn::PackedScene::1618014002586439966::1768294505::0::1::::<><><>0<>0<><>::uid://c7ttx1riilk43::::res://scripts/customer_spawn.gd<>uid://c65r4xffb5qav::::res://shop.gd
 ::res://scripts/::1768235592
 customer_spawn.gd::GDScript/GDScript::7059303629496147382::1768235592::0::1::::CustomerSpawn<>Node2D<><>0<>0<><>::
