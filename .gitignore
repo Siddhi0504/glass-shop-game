@@ -1,0 +1,9 @@
+.import/
+.export/
+*.translation
+*.tmp
+*.bak
+*.old
+*.autosave
+.vscode/
+.idea/
